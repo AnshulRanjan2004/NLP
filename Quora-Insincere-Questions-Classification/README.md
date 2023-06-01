@@ -9,7 +9,12 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 
 In this competition, Kagglers will develop models that identify and flag insincere questions. To date, Quora has employed both machine learning and manual review to address this problem. With your help, they can develop more scalable methods to detect toxic and misleading content.
 
-## Submission
+## Approach
+### Classification Algorithms - Logistic Regression
+![Screenshot 2023-06-02 005659](https://github.com/AnshulRanjan2004/NLP/assets/91585064/f998cfcf-39a4-44c9-9163-1f3060303094)
 
+
+## Submission
+### Using Text Classification with Bag of Words Technique 
 ![image](https://github.com/AnshulRanjan2004/NLP/assets/91585064/7cddeb24-8e75-429a-84d4-acfe5ff8040a)
 
