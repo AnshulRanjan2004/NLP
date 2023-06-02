@@ -19,7 +19,7 @@ The Rotten Tomatoes movie review dataset is a corpus of movie reviews used for s
 
 ## Using TF-IDF or ( Term Frequency(TF) — Inverse Dense Frequency(IDF) ) Technique
 
-###accuracies
+### Accuracies
 ![image](https://github.com/AnshulRanjan2004/NLP/assets/91585064/68fbde13-38c5-4327-8ca0-d6c93f6d4996)
 
 ## Submission
