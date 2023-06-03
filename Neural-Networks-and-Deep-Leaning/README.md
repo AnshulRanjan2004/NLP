@@ -10,3 +10,6 @@
 
 
 ## Submission
+![Screenshot 2023-06-03 152613](https://github.com/AnshulRanjan2004/NLP/assets/91585064/bf110c41-30c7-4bd5-aced-3d48bc1afb6e)
+
+By using Feed Forward Neural Network F1 score score increased by 13.75% (0.39740 to 0.45206)
